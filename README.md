@@ -64,4 +64,4 @@ This format focuses on cards with lower costs - commones and uncommons. The deck
 2. Up to three inks are allowed
 3. All cards must be uncommon or lower
 
-Gameplay follows standard Lorcana rules (hitting 20 lore first wins)
+Gameplay then follows standard Lorcana rules.
