@@ -37,5 +37,21 @@ The pack rush format is great for casual games and plays quickly due to the limi
 
 Play then continues according to the usual Lorcana rules (with the exceptions listed above) with the goal of getting to 15 lore.
 
+## Shift Leader
+Players start this game format by selecting a character from their deck to act as a "leader". 
+
+1. Decks should still contain 60 cards (59 cards and 1 leader).
+2. Decks can only have one of each card, not 4
+3. Your deck can contain up to 3 different ink colors. One of those colors must match the ink of your leader
+4. The ink cost of playing your leader increases by 2 each time you play them from the "leader zone". This cost increase also increases the shift cost.
+
+If your selected leader does not have “Shift” it gains Shift and it’s Shift cost is 2 ink less than it’s natural ink cost and no less than 1. To start the game, place the leader off to the side in a "leader zone" faceup. You can then play this leader character as you would any normal character according to normal Lorcana play rules. When a leader would change zones, they may be put back into the "leader zone" instead. 
+
+NOTE: This gameplay is similar to "Commander" in Magic: The Gathering.
+
+## Multiplayer
+
+You can find the official rules for playing Lorcana multiplayer in section *1.10.Multiplayer Games* of the [comprehensive rules document](https://files.disneylorcana.com/Disney%20Lorcana%20Comprehensive%20Rules%20-%20032724%201.pdf)
+
 # Creative Ideas for LGSs
 
