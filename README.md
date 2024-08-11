@@ -56,3 +56,12 @@ You can find the official rules for playing Lorcana multiplayer in section *1.10
 # Creative Ideas for LGSs
 
 Anything interesting variations your LGS does? I'd love to hear about it!
+
+## Poorcana
+This format focuses on cards with lower costs - commones and uncommons. The deck construction rules are slightly different:
+
+1. Decks are still 60 cards
+2. Up to three inks are allowed
+3. All cards must be uncommon or lower
+
+Gameplay follows standard Lorcana rules (hitting 20 lore first wins)
