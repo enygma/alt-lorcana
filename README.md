@@ -55,3 +55,4 @@ You can find the official rules for playing Lorcana multiplayer in section *1.10
 
 # Creative Ideas for LGSs
 
+Anything interesting variations your LGS does? I'd love to hear about it!
