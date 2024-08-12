@@ -65,3 +65,7 @@ This format focuses on cards with lower costs - commones and uncommons. The deck
 3. All cards must be uncommon or lower
 
 Gameplay then follows standard Lorcana rules.
+
+## Princess and the Pauper
+
+This mode is a variation of the "Poorcana" approach above with the only additional rule being that you can only have one prince or princess character of any rarity and then everything else has to be common/uncommon.
